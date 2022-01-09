@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @keikoWei, nice to meet you!! I from Taiwan, a beautiful island ~！
-- 👀 I’m interested in codeing, java is the first programming language I learned.
+- 👀 I’m interested in coding, java is the first programming language I learned.
 -    Hope I can get some friends here!
 
 <!---
