@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @keikoWei, nice to meet you!! 
+- 👋 Hi, I’m @keikoWang, nice to meet you!! 
 - 👀 I’m interested in coding, java is the first programming language I learned.
 -    Hope I can get some friends here!
 
